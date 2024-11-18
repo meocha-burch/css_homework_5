@@ -1,0 +1,18 @@
+main {
+  width: 100vw;
+  height: 100vh;
+  overflow: auto;
+}
+.box {
+  background-color:blueviolet; height: 320px; 
+  width: 320px;
+}
+.padding {
+  padding: 5px;
+}
+.margin {
+  margin: 5px;
+}
+.border {
+  border: solid black 2px;
+}
